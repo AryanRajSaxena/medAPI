@@ -1,0 +1,13 @@
+pandas
+Flask
+jsonify
+request
+pickle
+numpy
+tensorflow
+DecisionTreeClassifier
+train_test_split
+confusion_matrix
+accuracy_score
+RandomForestClassifier
+Gunicorn
