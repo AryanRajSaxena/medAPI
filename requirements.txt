@@ -6,6 +6,5 @@ tensorflow
 DecisionTreeClassifier
 sklearn
 confusion_matrix
-RandomForestClassifier
 Gunicorn
 
