@@ -24,7 +24,7 @@ def predict():
     x_tt = dataframe.iloc[:, :]
     x_tt_transpose = np.transpose(x_tt)
     result = model.predict(x_tt_transpose)
-    return jsonify({"disease":result})
+    return jsonify({"disease":str(result)})
 
 
 if __name__ == '__main__':
