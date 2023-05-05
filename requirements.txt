@@ -4,7 +4,7 @@ jsonify
 numpy
 tensorflow
 DecisionTreeClassifier
-sklearn.model_selection
+sklearn
 confusion_matrix
 accuracy_score
 RandomForestClassifier
