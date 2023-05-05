@@ -6,8 +6,6 @@ tensorflow
 DecisionTreeClassifier
 sklearn
 confusion_matrix
-accuracy_score
 RandomForestClassifier
 Gunicorn
-request
 
