@@ -1,10 +1,14 @@
 pandas
-from flask import Flask, request, jsonify
+Flask
+jsonify
 pickle
 numpy
 tensorflow
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import confusion_matrix, accuracy_score
-from sklearn.ensemble import RandomForestClassifier
+DecisionTreeClassifier
+train_test_split
+confusion_matrix
+accuracy_score
+RandomForestClassifier
 Gunicorn
+request
+
