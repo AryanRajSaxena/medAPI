@@ -1,7 +1,6 @@
 pandas
 Flask
 jsonify
-pickle
 numpy
 tensorflow
 DecisionTreeClassifier
