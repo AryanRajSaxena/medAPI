@@ -4,7 +4,7 @@ jsonify
 numpy
 tensorflow
 DecisionTreeClassifier
-sklearn
+scikit-learn
 confusion_matrix
 Gunicorn
 
